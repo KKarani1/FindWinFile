@@ -1,9 +1,9 @@
 # FindWinFile
 
-**Purpose:** To start a process on a specific file path.
+**Purpose:** To find the first instance of a file (in this case any zip file) in the C Drive.
 
-## How to Use
-* Replace X with filepath folders and replace Y with executable name.
+## Notes
+* Also configured to ignore errors.
 
 ## Use Case
-* A system administrator or security professional needs a quick powershell script to start up a process when the usual methods on administrative or security platforms don't work.
+* A system administrator or security professional needs a quick powershell script find the first instance of a file in the C Drive.
